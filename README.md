@@ -15,7 +15,7 @@ Built Demo at https://seokho-son.github.io
 
 ## Acknowledgement
 
-This repository was forked from [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll).
+This repository was cloned from [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll).
 
 
 ---
@@ -34,6 +34,6 @@ Github 교육 용도로도 활용할 생각입니다.
 
 ## 사사
 
-이 저장소는 [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) 의 소스코드를 포크하여 커스터마이징한 것입니다.
+이 저장소는 [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) 의 저장소를 클론하여 커스터마이징한 것입니다.
 
 ---
