@@ -11,7 +11,7 @@ title: Research Career
 ### Electronics and Telecommunications Research Institute
 #### Senior Researcher, 2014 to Present
 
-* Project (ongoing): _**Multi-cloud service common framework technology, maximizing utilization and spreading of various Multi-cloud services**_
+* Project (ongoing): _**Multi-cloud service common framework**_
   * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
 * Project: _**Heterogeneous multi-cloud service brokerage platform**_
   * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
@@ -48,12 +48,12 @@ title: Research Career
 
 * Kubernetes project contents owner
   * Official member of Kubernetes organization (Github)
-  * Contributor of Kubernetes/website (approver/reviewer/contributor)
-  * Contributor of Kubernetes/dashboard (approver/reviewer/contributor)
+  * Contributor of [Kubernetes/website](https://github.com/kubernetes/website) (approver/reviewer/contributor)
+  * Contributor of [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) (approver/reviewer/contributor)
 * Cloud-Barista project owner
-  * Technical leader for Cloud-Barista/Tumblebug
-  * Owner of Cloud-Barista/CB-Tumblebug project (approver/reviewer/contributor)
-  * Owner of Cloud-Barista/CB-Bridge (approver/reviewer/contributor)
+  * Technical leader for [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug)
+  * Owner of [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project (approver/reviewer/contributor)
+  * Owner of [Cloud-Barista/CB-Operator](https://github.com/cloud-barista/cb-operator) (approver/reviewer/contributor)
 * Github Profile: [https://github.com/seokho-son](https://github.com/seokho-son)
 
 ### Reviewer for Reputed Journals
