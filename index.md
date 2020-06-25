@@ -18,7 +18,7 @@ He is carrying out various activities including international standardizations (
 He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
 Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
 
-He loves to bring new ideas and share it with collaborators. Hello world!
+He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
 
 ## Contact
 

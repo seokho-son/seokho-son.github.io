@@ -11,7 +11,9 @@ comments: true
 
 오픈소스 멀티 클라우드 플랫폼 프로젝트인 [Cloud-Barista의 두 번째 릴리스 행사](https://www.allshowtv.com/detail.html?idx=199)에서
 
-[CB-Tumblebug : 최적 멀티 클라우드 인프라를 찾아서](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.2.0-cappuccino/ppt_files/Cappuccino-OpenSeminar-3-CB-Tumblebug-Multi-cloud%20infrastructure%20integrated%20operation%20management.pdf)라는 주제로 발표를 진행하였습니다.
+[CB-Tumblebug : 최적 멀티 클라우드 인프라를 찾아서](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.2.0-cappuccino/ppt_files/Cappuccino-OpenSeminar-3-CB-Tumblebug-Multi-cloud%20infrastructure%20integrated%20operation%20management.pdf)라는 주제로
+
+발표를 진행하였습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qxEnboezCFg" frameborder="0" allowfullscreen></iframe>
 
