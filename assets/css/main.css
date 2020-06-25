@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lora', "굴림", 'Gulim', serif;
   font-size: 1.125rem;
   color: #404040;
   position: relative;
