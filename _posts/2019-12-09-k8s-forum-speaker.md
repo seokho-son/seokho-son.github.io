@@ -13,6 +13,8 @@ comments: true
 
 [Getting Involved in Kubernetes SIG Docs and Korean Localization](https://k8sforumseoul19eng.sched.com/event/WIRH/getting-involved-in-kubernetes-sig-docs-and-korean-localization-seokho-son-electronics-and-telecommunications-research-institute-etri-ian-choi-microsoft)라는 주제로 발표를 진행하였습니다.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1TLBSmeaVJc" frameborder="0" allowfullscreen></iframe>
+
 * [발표영상](https://www.youtube.com/watch?v=1TLBSmeaVJc)
 * [발표자료](https://static.sched.com/hosted_files/k8sforumseoul19eng/f4/Getting%20Involved%20in%20Kubernetes%20SIG%20Docs%20and%20Korean%20Localization%28K8sForum19_Seokho_Ian_v2%29.pdf)
 * [관련 기사-1](http://www.epnc.co.kr/news/articleView.html?idxno=93061)
