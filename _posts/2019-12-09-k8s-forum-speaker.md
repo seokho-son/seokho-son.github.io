@@ -15,6 +15,8 @@ comments: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1TLBSmeaVJc" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
 * [발표영상](https://www.youtube.com/watch?v=1TLBSmeaVJc)
 * [발표자료](https://static.sched.com/hosted_files/k8sforumseoul19eng/f4/Getting%20Involved%20in%20Kubernetes%20SIG%20Docs%20and%20Korean%20Localization%28K8sForum19_Seokho_Ian_v2%29.pdf)
 * [관련 기사-1](http://www.epnc.co.kr/news/articleView.html?idxno=93061)

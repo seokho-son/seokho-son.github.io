@@ -13,6 +13,10 @@ comments: true
 
 [CB-Tumblebug : 최적 멀티 클라우드 인프라를 찾아서](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.2.0-cappuccino/ppt_files/Cappuccino-OpenSeminar-3-CB-Tumblebug-Multi-cloud%20infrastructure%20integrated%20operation%20management.pdf)라는 주제로 발표를 진행하였습니다.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qxEnboezCFg" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
 * [발표영상](https://youtu.be/qxEnboezCFg)
 * [발표자료](https://www.slideshare.net/cloud-barista/cloudbarista-2-multicloud-infrastructure-integrated-operation-management)
 
