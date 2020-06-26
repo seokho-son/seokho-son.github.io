@@ -31,7 +31,7 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
 [동영상 가이드: 약 10분](https://www.youtube.com/watch?v=UgPZXxL2jSw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UgPZXxL2jSw" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/UgPZXxL2jSw" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
@@ -39,7 +39,7 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
 가이드를 19 단계의 애니메이션으로 표현
 
-![Simple Guide](../assets/img/simple-guide.gif)
+![간단 가이드](../assets/img/simple-guide.gif)
 
 <br>
 
