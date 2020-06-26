@@ -20,6 +20,10 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 {: .box-note}
 이 포스트는 오픈소스 프로젝트의 주요 개발 플랫폼인 GitHub 경험 차원에서, **ETRI의 연구자들** 을 위해 게시하였습니다. &#128525;
 
+{: .box-note}
+- Git은 분산 버전 관리 시스템(DVCS, Distributed Version Control System) 입니다.
+- GitHub는 Git을 사용하는 프로젝트의 관리를 도와주는 호스팅 서비스 입니다.
+
 
 <br>
 
@@ -64,8 +68,11 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
        ![GitHub 저장소 접속](../assets/img/githubpage-guide/g2.jpg)
     1. [https://seokho-son.github.io](https://seokho-son.github.io) 접속을 통해 데모 웹사이트 확인
        ![GitHub Page 접속](../assets/img/githubpage-guide/g1.jpg)
-    1. [https://seokho-son.github.io](https://seokho-son.github.io) 접속을 통해 데모 웹사이트 확인
+    1. GitHub의 `Fork` 기능을 통해 저장소를 본인의 GitHub 계정으로 복제
        ![GitHub Page 접속](../assets/img/githubpage-guide/g1.jpg)
+
+       {: .box-note}
+       `Fork` 는 Git 저장소를
 
 
 
