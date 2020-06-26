@@ -17,9 +17,7 @@ Github 교육 용도로도 활용할 생각입니다.
 
 #### 상세한 동영상 가이드
 
-10분 정도의 상세한 동영상 가이드
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UgPZXxL2jSw" frameborder="0" allowfullscreen></iframe>
+10분 정도의 상세한 [동영상 가이드](https://www.youtube.com/watch?v=UgPZXxL2jSw)
 
 
 ### 데모 웹사이트
