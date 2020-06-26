@@ -9,15 +9,17 @@ Github 교육 용도로도 활용할 생각입니다.
 
 ## 웹사이트 생성 가이드
 
-#### 간단한 GIF 가이드
-
-이 저장소를 활용하여 개인 웹사이트를 생성하는 방법을 19 단계의 애니메이션으로 표현
-
-![Simple Guide](assets/img/simple-guide.gif)
+이 저장소를 활용하여 개인 웹사이트를 생성하는 방법 가이드
 
 #### 상세한 동영상 가이드
 
-10분 정도의 상세한 [동영상 가이드](https://www.youtube.com/watch?v=UgPZXxL2jSw)
+[상세 동영상 가이드: 약 10분](https://www.youtube.com/watch?v=UgPZXxL2jSw)
+
+#### 간단한 GIF 가이드
+
+가이드를 19 단계의 애니메이션으로 표현
+
+![Simple Guide](assets/img/simple-guide.gif)
 
 
 ## 데모 웹사이트
