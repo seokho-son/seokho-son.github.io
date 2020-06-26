@@ -15,6 +15,10 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
 이 가이드를 활용하여, 개인의 연구 실적 정리 사이트, 연구 프로젝트의 사이트, 기술 블로그 개설 등 다양한 활용이 가능합니다.
 
+{: .box-note}
+**Note:** 이 포스트는 오픈소스의 주요 개발 플랫폼인 GitHub를 사용해 보는 차원에서, ETRI 동료들을 위해 게시하였습니다. 
+
+
 <br>
 
 ## 데모 웹사이트
@@ -31,7 +35,7 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
 [동영상 가이드: 약 10분](https://www.youtube.com/watch?v=UgPZXxL2jSw)
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/UgPZXxL2jSw" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/UgPZXxL2jSw" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
@@ -47,9 +51,9 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
 1. GitHub 계정이 없는 경우, GitHub 계정을 생성하고 이메일 인증을 수행합니다.
 
-   ![GitHub 계정 생성](../assets/img/githubpage-guide/p1)
+   ![GitHub 계정 생성](../assets/img/githubpage-guide/p1.jpg)
 
-   ![GitHub 계정 이메일 인증](../assets/img/githubpage-guide/p2)
+   ![GitHub 계정 이메일 인증](../assets/img/githubpage-guide/p2.jpg)
 
 
 
