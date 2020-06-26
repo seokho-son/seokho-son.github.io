@@ -22,9 +22,9 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 **ETRI 연구원** 을 위해 게시하였습니다. &#128525;
 
 {: .box-note}
-  - Git은 분산 버전 관리 시스템(DVCS, Distributed Version Control System)입니다.
-  - GitHub는 Git을 사용하는 프로젝트의 관리를 도와주는 호스팅 서비스입니다.
-
+  - Git는 분산 버전 관리 시스템(DVCS, Distributed Version Control System)
+  - GitHub는 Git를 사용하여 공동 개발하는 프로젝트 및 저장소의 관리를 도와주는 서비스
+  - GitHub Page란 GitHub가 정적 웹사이트를 무료로 호스팅하는 것을 의미 (계정당 1개)
 
 <br>
 
@@ -75,12 +75,54 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
        ![GitHub Page 접속](../assets/img/githubpage-guide/g1.jpg)
 
     1. GitHub의 `Fork` 기능을 통해 저장소를 본인의 GitHub 계정으로 복제
-       ![GitHub Page 접속](../assets/img/githubpage-guide/g3.jpg)
+       ![GitHub 포크](../assets/img/githubpage-guide/g3.jpg)
 
-       {: .box-note}
-       `Fork` 는 Git 저장소를
+       `Fork` 는 Git 저장소를 복제 및 기존 저장소와 연계시키는 기능 (보통 공동 작업을 위한 방법)
+
+    1. 본인 계정에 복제된 저장소 확인
+       ![GitHub 포크 확인](../assets/img/githubpage-guide/g5.jpg)
+
+1. GitHub Page 활성화를 위해 저장소 명칭 변경
+
+    1. `Settings` 탭을 선택하고 `Repository name` 을 `계정이름.github.io` 로 변경
+        ![저장소 이름 변경](../assets/img/githubpage-guide/g7.jpg)
+
+    GitHub는 `계정이름.github.io` 인 저장소에 대해 자동으로 소스코드 빌드 및 호스팅을 수행함
+
+    1. 자동 생성된 웹사이트 확인
+        ![자동 생성 웹사이트 확인](../assets/img/githubpage-guide/g8.jpg)
 
 
+1. 자신의 웹사이트로 내용 커스터마이징
 
-* [발표영상](https://youtu.be/qxEnboezCFg)
-* [발표자료](https://www.slideshare.net/cloud-barista/cloudbarista-2-multicloud-infrastructure-integrated-operation-management)
+    1. `_config.yml` 파일을 선택하여 내용 수정 및 저장소에 수정 사항 반영
+
+        `_config.yml` 파일은 웹사이트의 설정 정보가 포함되어 있음. `수정필요` 로 코멘트된 사항에 대해 커스터마이징 진행.
+
+        ![컨피그 확인](../assets/img/githubpage-guide/g9.jpg)
+
+        ![컨피그 수정](../assets/img/githubpage-guide/g10.jpg)
+
+        ![컨피그 수정2](../assets/img/githubpage-guide/g11.jpg)
+
+        ![컨피그 커밋](../assets/img/githubpage-guide/g12.jpg)
+
+        `Commit` (`git commit`)은 어려가지 변경 사항에 대한 스넵샷을 제공하는 기능임. 수정 사항을 저장소에 반영하기 위해서는 `Commit` 이라는 행위를 필수적으로 수행해야 함.
+
+    1. `index.md` 파일을 선택하여 내용 수정 및 저장소에 수정 사항 반영
+
+        ![인덱스 확인](../assets/img/githubpage-guide/g13.jpg)
+
+        ![인덱스 수정](../assets/img/githubpage-guide/g14.jpg)
+
+        ![인덱스 커밋](../assets/img/githubpage-guide/g15.jpg)
+
+        `index.md` 는 웹사이트에서 첫 페이지(`home`)의 소스 파일임. 커스터마이징 진행.
+
+    1. `carrer.md` , `publication.md` 등 `*.md` 에 대해서도 커스터마이징 진행
+
+
+1. 내용이 업데이트된 웹사이트 최종 확인
+    ![업데이트된 웹사이트](../assets/img/githubpage-guide/g17.jpg)
+
+끝.
