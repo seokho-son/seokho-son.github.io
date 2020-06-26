@@ -37,3 +37,5 @@ Github 교육 용도로도 활용할 생각입니다.
 이 저장소는 [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) 의 저장소를 클론하여 커스터마이징한 것입니다.
 
 ---
+
+![Simple Guide](assets\img\simple-guide.gif)
