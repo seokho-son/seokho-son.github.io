@@ -17,14 +17,14 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
 개인의 연구 커리어 정리 사이트, 연구 프로젝트의 사이트, 기술 블로그 개설 등 다양한 활용이 가능합니다.
 
+- Git는 분산 버전 관리 시스템 (DVCS, Distributed Version Control System)
+- GitHub는 Git를 사용하여 공동 개발하는 프로젝트의 저장소 관리 및 협업을 도와주는 서비스
+- GitHub Page란 GitHub가 정적 웹사이트를 무료로 호스팅하는 것을 의미 (계정당 1개)
+
 {: .box-note}
 이 포스트는 오픈소스 프로젝트의 주요 개발 플랫폼인 GitHub 경험 차원에서,
 **ETRI 연구원** 을 위해 게시하였습니다. &#128525;
 
-{: .box-note}
-  - Git는 분산 버전 관리 시스템(DVCS, Distributed Version Control System)
-  - GitHub는 Git를 사용하여 공동 개발하는 프로젝트 및 저장소의 관리를 도와주는 서비스
-  - GitHub Page란 GitHub가 정적 웹사이트를 무료로 호스팅하는 것을 의미 (계정당 1개)
 
 <br>
 
