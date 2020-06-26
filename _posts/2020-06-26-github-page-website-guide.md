@@ -119,6 +119,8 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
         `index.md` 는 웹사이트에서 첫 페이지(`home`)의 소스 파일임. 커스터마이징 진행.
 
+        `.md` 파일은 [마크다운 언어](https://ko.wikipedia.org/wiki/마크다운)으로 작성되는 것을 의미함.
+
     1. `carrer.md` , `publication.md` 등 `*.md` 에 대해서도 커스터마이징 진행
 
 
