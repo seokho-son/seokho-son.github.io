@@ -38,4 +38,4 @@ Github 교육 용도로도 활용할 생각입니다.
 
 ---
 
-![Simple Guide](assets\img\simple-guide.gif)
+![Simple Guide](assets/img/simple-guide.gif)
