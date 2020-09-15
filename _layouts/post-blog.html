@@ -8,6 +8,7 @@ layout: page
 
 <div class="posts-list">
   {% for post in posts %}
+  {% if post.categories contains 'blog' %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
@@ -56,6 +57,7 @@ layout: page
     {% endif %}
 
    </article>
+  {% endif %}
   {% endfor %}
 </div>
 
